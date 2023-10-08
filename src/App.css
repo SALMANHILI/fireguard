@@ -258,3 +258,21 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 30px;
   color: #F5793B;
 }
+
+
+
+
+
+.banner {
+  margin-top: 0;
+  padding: 260px 0 100px 0;
+  background-position: top center;
+  z-index : 2;
+}
+.globe-container {
+  background-position: top center;
+  z-index : 0;
+}
+
+/* Rest of your CSS styles remain unchanged */
+

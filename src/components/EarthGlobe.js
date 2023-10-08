@@ -36,8 +36,19 @@ const EarthGlobe = () => {
   }, []);
   
   return (
-    <div id="globe-container" />
-  );
+    <div id="globe-container" style={{
+      width: '100%',
+      height: '100vh',
+      display: 'flex',
+      justifyContent: 'flex-end',
+      alignItems: 'center',
+      overflow: 'hidden',
+      position: 'relative', 
+      top: '0',
+      
+    }}>
+      {/* Contenu du globe ici */}
+    </div>
+  );
 };
-
 export default EarthGlobe;

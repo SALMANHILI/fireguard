@@ -7,7 +7,6 @@ import EarthGlobe from "./EarthGlobe";
 
 
 export const Banner = () => {
-  
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
   const [text, setText] = useState('');
@@ -81,7 +80,16 @@ export const Banner = () => {
           
         </Row>
       </Container>
+      <Container>
+        <div className="banner">
+        </div>
+
+      </Container>
     </section>
-  )
-}
+  );
+};
+
+
+
+
 export default Banner;

@@ -52,7 +52,7 @@ export const NavBar = () => {
                 <Nav.Link as={Link} to="/" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
                 <Nav.Link as={Link} to="/map" className={activeLink === 'map' ? 'active navbar-link' : 'navbar-link'} onClick={() => { onUpdateActiveLink('map')}}>Map Visualization</Nav.Link>
                 <Nav.Link href="https://pyropredictionfires.onrender.com" className={activeLink === 'predict' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('predict')}>Predict</Nav.Link>
-                <Nav.Link href="https://www.nbcnews.com/western-wildfires" target="_blank" className={activeLink === 'news' ? 'active navbar-link' : 'navbar-link'} onClick={() => { onUpdateActiveLink('news')}}>News</Nav.Link>
+                <Nav.Link href="https://www.nbcnews.com/western-wildfires" target="_blank"className={activeLink === 'news' ? 'active navbar-link' : 'navbar-link'} onClick={() => { onUpdateActiveLink('news')}}>News</Nav.Link>
               </Nav>
               <span className="navbar-text">
                 <HashLink to='#'>
