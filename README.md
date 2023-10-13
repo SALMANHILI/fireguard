@@ -1,7 +1,9 @@
 <h1>FIREGUARD Web App</h1>
-<p>Welcome to the FIREGUARD Web App README! This application is designed to help you track wildfires in near real-time using an interactive map and predict forest wildfires using Python. Below, you'll find information on how to get started and use the app.</p>
+<p>Welcome to the FIREGUARD Web App! This application is designed to help you track wildfires in near real-time using an interactive map and predict forest wildfires using Python. Below, you'll find information on how to get started and use the app.</p>
+<br>
 
 ![image](https://github.com/SALMANHILI/fireguard/assets/109222748/af76992d-5ec3-4913-be45-1e4c5e41542f)
+<br>
 
 <h3>Getting Started </h3>
 Our project empowers communities to actively monitor and report fires using technology and publicly available data. We enhance data accessibility for various stakeholders and focus on using data insights, particularly in understanding aerosol chemistry in different fire types, to predict and prevent wildfires effectively. This collaborative approach aims to protect lives, property, and natural resources from escalating fire threats.
@@ -13,8 +15,9 @@ The escalating frequency and severity of wildfires present a pressing challenge 
 </h3>
 
 Wildfires and agricultural burns incur substantial economic costs. Our project seeks to mitigate these costs by better predicting fire occurrences and detecting early warning signs. Leveraging historical and informative data from NASA, we aim to develop predictive models that can lead to early intervention and more effective fire management.op user-friendly tools and resources that enable local communities to actively participate in fire monitoring, reporting, and response efforts. This approach fosters a sense of ownership and ensures rapid reactions to fire threats.
-
+<br>
 ![image](https://github.com/SALMANHILI/fireguard/assets/109222748/bd164f01-ad82-4190-be81-2a0c2b8e3ecc)
+<br>
 
 <h3>Data Accessibility:
 </h3>
